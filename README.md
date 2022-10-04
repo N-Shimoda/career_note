@@ -1,3 +1,4 @@
+{% include head.html %}
 # インターンシップ
 2022 Autumn & Winter
 
