@@ -1,3 +1,4 @@
+{% include head.html %}
 # 野村総合研究所（NRI）
 2022.10.04 現在
 
