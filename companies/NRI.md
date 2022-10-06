@@ -2,6 +2,11 @@
 # 野村総合研究所（NRI）
 2022.10.04 現在
 
+## Links
+企業HP：[https://www.nri.com/jp/](https://www.nri.com/jp/)
+新卒採用HP：[https://working.nri.co.jp/recruit/](https://working.nri.co.jp/recruit/)
+MyPage：[https://working.nri.co.jp/mypage2024/](https://working.nri.co.jp/mypage2024/)
+
 ## 事業内容
 参考：[https://working.nri.co.jp/recruit/contents/business/#section01](https://working.nri.co.jp/recruit/contents/business/#section01)
 - コンサルティング
@@ -25,7 +30,6 @@
 - 「[1dayイベント](https://working.nri.co.jp/recruit/2024/contents/event/it/)」は申込可能．10月中旬〜1月に比較的頻繁に開かれている．
   - ITソリューション 1day-Job（対面）
   - ITソリューション キャリアCafe（オンライン）
-- MyPage：[https://working.nri.co.jp/mypage2024/](https://working.nri.co.jp/mypage2024/)
 
 ## イベント
 - 1dayイベント
