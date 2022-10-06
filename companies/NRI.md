@@ -3,9 +3,9 @@
 2022.10.04 現在
 
 ## Links
-企業HP：[https://www.nri.com/jp/](https://www.nri.com/jp/)
-新卒採用HP：[https://working.nri.co.jp/recruit/](https://working.nri.co.jp/recruit/)
-MyPage：[https://working.nri.co.jp/mypage2024/](https://working.nri.co.jp/mypage2024/)
+企業HP：[https://www.nri.com/jp/](https://www.nri.com/jp/)  
+新卒採用HP：[https://working.nri.co.jp/recruit/](https://working.nri.co.jp/recruit/)  
+MyPage：[https://working.nri.co.jp/mypage2024/](https://working.nri.co.jp/mypage2024/)  
 
 ## 事業内容
 参考：[https://working.nri.co.jp/recruit/contents/business/#section01](https://working.nri.co.jp/recruit/contents/business/#section01)
