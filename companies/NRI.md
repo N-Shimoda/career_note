@@ -3,7 +3,7 @@
 2022.10.04 現在
 
 ## 事業内容
-[https://working.nri.co.jp/recruit/contents/business/#section01](https://working.nri.co.jp/recruit/contents/business/#section01)より
+参考：[https://working.nri.co.jp/recruit/contents/business/#section01](https://working.nri.co.jp/recruit/contents/business/#section01)
 - コンサルティング
   - 経営コンサルティング
   - システムコンサルティング
