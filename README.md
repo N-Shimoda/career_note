@@ -18,6 +18,7 @@
 - IT
   - LINE
   - PayPay
+  - [MoneyForward](./companies/moneyforward.md)
   - Google
 - システムエンジニア
   - [みずほリサーチ＆テクノロジーズ](companies/mimzuho)：エントリー／適性検査締切：10月11日(火)
@@ -28,4 +29,4 @@
 - 金融・保険
   - 三井住友銀行
   - みずほ
-  - 三菱UFJ
+  - 三菱UFJ 
