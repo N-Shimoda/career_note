@@ -1,5 +1,6 @@
 {% include head.html %}
-# キャリアサポートセンターのイベント
+# キャリアサポートセンター
+公式サイトは[こちら](https://www.career.gakusei.kyoto-u.ac.jp)
 
 ## 企業研究セミナー
 - 期間：10/24(月)〜11/18(金)
