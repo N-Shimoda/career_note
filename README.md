@@ -1,7 +1,6 @@
 {% include head.html %}
 # インターンシップ
 2022 Autumn & Winter
-** head.html revised version **
 
 ## メモ
 院進するのであれば「M1前期からインターンに参加、M2初夏までに内定」くらいのスケジュール。  
