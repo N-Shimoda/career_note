@@ -1,3 +1,5 @@
+{% include head.html %}
+
 # Money Forward
 
 ## 関連イベント
